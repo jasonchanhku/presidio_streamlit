@@ -1,2 +1,2 @@
 # presidio_streamlit
-repo for demo of streamlit on DLP
+repo for streamlit demo of MSFT presidio
